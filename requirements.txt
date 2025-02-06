@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+flask
+pandas
+numpy
+scikit-learn
+Pillow
+tqdm
+gunicorn # Added gunicorn for production API server
